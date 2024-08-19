@@ -1,3 +1,4 @@
-# A list of resources that have helped me a lot during my PhD studies.
+## A list of resources that have helped me a lot during my PhD studies.
+
 
 
